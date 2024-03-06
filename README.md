@@ -1,2 +1,4 @@
-# Projet_9_Data_Analyst
-Produisez une étude de marché avec Python
+# Produisez une étude de marché avec Python
+## Livrables:
+
+## Compétences évaluées:
